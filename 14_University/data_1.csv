@@ -1,0 +1,11 @@
+world_rank,institution,country,national_rank,quality_of_education,alumni_employment,quality_of_faculty,publications,influence,citations,broad_impact,patents,score,year
+"1,""Harvard University"",USA,1,7,9,1,1,1,1,,5,100,2012"
+"2,""Massachusetts Institute of Technology"",USA,2,9,17,3,12,4,4,,1,91.67,2012"
+"3,""Stanford University"",USA,3,17,11,5,4,2,2,,15,89.5,2012"
+"4,""University of Cambridge"",United Kingdom,1,10,24,4,16,16,11,,50,86.17,2012"
+"5,""California Institute of Technology"",USA,4,2,29,7,37,22,22,,18,85.21,2012"
+"6,""Princeton University"",USA,5,8,14,2,53,33,26,,101,82.5,2012"
+"7,""University of Oxford"",United Kingdom,2,13,28,9,15,13,19,,26,82.34,2012"
+"8,""Yale University"",USA,6,14,31,12,14,6,15,,66,79.14,2012"
+"9,""Columbia University"",USA,7,23,21,10,13,12,14,,5,78.86,2012"
+"10,""University of California, Berkeley"",USA,8,16,52,6,6,5,3,,16,78.55,2012"
